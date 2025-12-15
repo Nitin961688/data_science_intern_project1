@@ -1,0 +1,816 @@
+branch,store_name,month_name,value,category,month_num,jan_predicted_value
+Delhi_Ncr,Delhi(Janakpuri) Br,aug,0.24,Medium Attach,8,0.1
+Delhi_Ncr,Haryana(Gurgaon) Br,aug,0.04,Low Attach,8,0.368
+Delhi_Ncr,Up(Greater Noida) Br,aug,0.43,High Attach,8,0.263
+Pune,Pune(Bhosari) Br,aug,0.32,High Attach,8,0.376
+Gujarat,Ahmedabad(Maninagar) Br,aug,0.17,Low Attach,8,0.07
+Pune,Pune(Nagar Road) Br,aug,0.21,Medium Attach,8,0.378
+Pune,Pune(Chinchwad) Br,aug,0.26,Medium Attach,8,0.358
+Thane,Bhiwandi Br,aug,0.39,High Attach,8,0.437
+Delhi_Ncr,Up (Noida Sec.18) Br,aug,0.21,Medium Attach,8,0.218
+Pune,Pune(Baner) Br,aug,0.19,Low Attach,8,0.328
+Delhi_Ncr,Delhi(Hauz Khas),aug,0.56,High Attach,8,0.564
+Delhi_Ncr,Delhi(Rohini) Br,aug,0.15,Low Attach,8,0.501
+Telangana,Ts(Kondapur),aug,0.17,Low Attach,8,0.474
+Delhi_Ncr,Up(Raj Nagar Dc) Br,aug,0.16,Low Attach,8,0.541
+Pune,Pune(Station Rd) Br,aug,0.14,Low Attach,8,0.239
+Thane,Panvel Br,aug,0.22,Medium Attach,8,0.202
+Mumbai,Opera House Br,aug,0.24,Medium Attach,8,0.179
+Delhi_Ncr,Delhi(Daryaganj),aug,0.32,High Attach,8,0.567
+Telangana,Ts(Vivekananda Nagar),aug,0.04,Low Attach,8,0.419
+Mumbai,Chakala Andheri Br,aug,0.06,Low Attach,8,0.297
+Thane,Ghodbunder Br,aug,0.11,Low Attach,8,0.232
+Delhi_Ncr,Haryana(Mewla M.) Br,aug,0.15,Low Attach,8,0.562
+Thane,Virar Br,aug,0.06,Low Attach,8,0.167
+Delhi_Ncr,Haryana(New Faridabad),aug,0.04,Low Attach,8,0.326
+Delhi_Ncr,Delhi(Patel Nagar) Br,aug,0.4,High Attach,8,0.181
+Delhi_Ncr,Delhi(Roop Nagar),aug,0.17,Low Attach,8,0.359
+Delhi_Ncr,Delhi(Rajouri Garden) Br,aug,0.36,High Attach,8,0.178
+Delhi_Ncr,Delhi(Kalkaji) Br,aug,0.0,Low Attach,8,0.619
+Delhi_Ncr,Delhi(Karol Bagh) Br,aug,0.12,Low Attach,8,0.302
+Pune,Pune(Dange Chowk),aug,0.0,Low Attach,8,1.246
+Delhi_Ncr,Delhi(Lajpatnagar) Br,aug,0.21,Medium Attach,8,-0.005
+Pune,Pune(Rahatni) Br,aug,0.13,Low Attach,8,0.217
+Delhi_Ncr,Delhi(Dwarka) Br,aug,0.24,Medium Attach,8,0.358
+Mumbai,MAHIM(VS Next),aug,0.0,Low Attach,8,0.0
+Delhi_Ncr,Haryana(Faridabad) Br,aug,0.08,Low Attach,8,0.444
+Delhi_Ncr,Delhi(Model Town Iii) Br,aug,0.29,Medium Attach,8,0.254
+Telangana,Ts(Nallakunta),aug,0.16,Low Attach,8,0.14
+Thane,Vasai Br,aug,0.12,Low Attach,8,0.051
+Delhi_Ncr,Delhi(Paschim Vihar),aug,0.34,High Attach,8,0.226
+Thane,Dombivli Br,aug,0.04,Low Attach,8,0.292
+Thane,Mira Road Br,aug,0.07,Low Attach,8,0.441
+Gujarat,Surat(Ved Road),aug,0.08,Low Attach,8,0.37
+Thane,Kalyan Br,aug,0.05,Low Attach,8,0.263
+Gujarat,Ahmedabad(Dev Arc) Br,aug,0.2,Medium Attach,8,0.134
+Gujarat,Ahmedabad(Bopal),aug,0.16,Low Attach,8,0.357
+Delhi_Ncr,Delhi(Vikas Marg) Br,aug,0.31,High Attach,8,0.445
+Pune,Pune(Dhankawadi-Satara Rd),aug,0.13,Low Attach,8,0.359
+Thane,Vashi Br,aug,0.11,Low Attach,8,0.158
+Telangana,Ts(Jubilee Hills),aug,0.14,Low Attach,8,0.1
+Mumbai,Linking Road Br,aug,0.31,High Attach,8,0.496
+Pune,Pune(Kothrud) Br,aug,0.37,High Attach,8,0.209
+Telangana,Ts(Warangal),aug,0.0,Low Attach,8,0.063
+Gujarat,Surat(Varachha) Br,aug,0.16,Low Attach,8,0.21
+Thane,Palghar,aug,0.16,Low Attach,8,0.383
+Mumbai,Andheri Br,aug,0.15,Low Attach,8,0.522
+Pune,Pune(S Bapat Rd),aug,0.27,Medium Attach,8,0.34
+Mumbai,Borivali Br,aug,0.08,Low Attach,8,0.506
+Delhi_Ncr,Up(Indirapuram) Br,aug,0.03,Low Attach,8,0.381
+Mumbai,Goregaon (W) Br,aug,0.17,Low Attach,8,0.347
+Telangana,Ts(Bhel),aug,0.17,Low Attach,8,0.19
+Pune,Pune(Satara Rd) Br,aug,0.26,Medium Attach,8,0.195
+Mumbai,Prabhadevi Br,aug,0.19,Low Attach,8,0.296
+Delhi_Ncr,Delhi(Defence Enclave-Palam) Br,aug,0.31,High Attach,8,0.452
+Delhi_Ncr,Delhi(Shahdara) Br,aug,0.38,High Attach,8,0.222
+Pune,Pune(Kondhawa),aug,0.28,Medium Attach,8,0.744
+Gujarat,Ahmedabad(Odhav) Br,aug,0.1,Low Attach,8,0.093
+Telangana,Ts(Kothapet),aug,0.15,Low Attach,8,0.408
+Delhi_Ncr,Delhi(Mahavir Enclave),aug,0.2,Medium Attach,8,0.306
+Pune,Pune(Hinjewadi) Br,aug,0.03,Low Attach,8,0.609
+Pune,Pune(Hadapsar),aug,0.6,High Attach,8,0.685
+Pune,Pune(Solapur Rd) Br,aug,0.07,Low Attach,8,0.447
+Delhi_Ncr,Haryana(Jacobpura) Br,aug,0.02,Low Attach,8,0.365
+Thane,Belapur Br,aug,0.17,Low Attach,8,0.145
+Gujarat,Surat(Bhatar),aug,0.12,Low Attach,8,0.029
+Mumbai,Santacruz Br,aug,0.01,Low Attach,8,0.354
+Mumbai,Bhandup Br,aug,0.11,Low Attach,8,0.199
+Delhi_Ncr,Delhi(Uttam Nagar) Br,aug,0.23,Medium Attach,8,0.431
+Mumbai,Goregaon (E) Br,aug,0.07,Low Attach,8,0.187
+Gujarat,Ahmedabad(Ashram Rd) Br,aug,0.13,Low Attach,8,0.011
+Telangana,Ts(Boduppal),aug,0.1,Low Attach,8,0.294
+Thane,Nallasopara Br,aug,0.03,Low Attach,8,0.087
+Delhi_Ncr,Delhi(Budh Vihar),aug,0.19,Low Attach,8,0.648
+Telangana,Ts(Karmanghat),aug,0.11,Low Attach,8,0.234
+Delhi_Ncr,Delhi(Nangloi),aug,0.3,High Attach,8,0.27
+Telangana,Ts(Kompally),aug,0.02,Low Attach,8,0.347
+Thane,Currey Road,aug,0.0,Low Attach,8,0.0
+Gujarat,Surat(Mota Varachha),aug,0.09,Low Attach,8,0.207
+Mumbai,Chembur Br,aug,0.07,Low Attach,8,0.201
+Gujarat,Ahmedabad(Krishna Nagar) Br,aug,0.04,Low Attach,8,0.049
+Telangana,Ts(Attapur),aug,0.03,Low Attach,8,0.146
+Delhi_Ncr,Delhi(Pitampura) Br,aug,0.2,Medium Attach,8,0.301
+Delhi_Ncr,Delhi(Narela),aug,0.32,High Attach,8,0.379
+Gujarat,Surat(Rander Rd) Br,aug,0.23,Medium Attach,8,0.079
+Delhi_Ncr,Delhi(Nawada),aug,0.07,Low Attach,8,0.273
+Telangana,Ts(Tolichowki- Aditya Ngr),aug,0.21,Medium Attach,8,0.11
+Telangana,Ts(Paradise Circle),aug,0.18,Low Attach,8,0.188
+Telangana,Ts(Shah Ali Banda),aug,0.04,Low Attach,8,0.199
+Gujarat,Ahmedabad(Shahi Baug) Br,aug,0.02,Low Attach,8,0.169
+Telangana,Ts(Mehdipatnam),aug,0.07,Low Attach,8,0.36
+Gujarat,Surat Br,aug,0.05,Low Attach,8,0.245
+Telangana,Ts(Sun City),aug,0.0,Low Attach,8,0.568
+Gujarat,Gandhinagar(Sargasan),aug,0.03,Low Attach,8,0.008
+Gujarat,Ahmedabad(Chandkheda Rd) Br,aug,0.17,Low Attach,8,0.094
+Telangana,Ts(Nagole),aug,0.08,Low Attach,8,0.193
+Telangana,Ts(Kukatpally),aug,0.0,Low Attach,8,0.193
+Delhi_Ncr,Delhi(Burari),aug,0.28,Medium Attach,8,0.538
+Mumbai,Malad,aug,0.1,Low Attach,8,0.169
+Telangana,Ts(Nacharam),aug,0.14,Low Attach,8,0.203
+Thane,Mumbra(Kausa),aug,0.06,Low Attach,8,0.125
+Gujarat,Surat(Parvat Patiya),aug,0.06,Low Attach,8,0.301
+Telangana,Ts(R C Puram),aug,0.17,Low Attach,8,0.15
+Telangana,Ts(Kompally- Golden Plaza),aug,0.0,Low Attach,8,0.49
+Mumbai,Ghatkopar(Lbs Marg) Br,aug,0.1,Low Attach,8,0.112
+Delhi_Ncr,Delhi(Durgapuri),aug,0.29,Medium Attach,8,0.441
+Telangana,Ts(Chandrayangutta),aug,0.04,Low Attach,8,0.15
+Delhi_Ncr,Haryana(Sec-65 Ext Gurugram),aug,0.26,Medium Attach,8,0.242
+Delhi_Ncr,Haryana(M G Road) Br,aug,0.03,Low Attach,8,0.163
+Delhi_Ncr,Delhi(Saket) Br,aug,0.01,Low Attach,8,0.294
+Thane,Kharghar(Patel Heritage),aug,0.05,Low Attach,8,0.223
+Gujarat,Surat(Vip Road-Vesu),aug,0.05,Low Attach,8,0.187
+Delhi_Ncr,Up(Gaur Chowk),aug,0.17,Low Attach,8,-0.028
+Telangana,Ts(Mailardevpally),aug,0.04,Low Attach,8,0.381
+Mumbai,Sion Br,aug,0.23,Medium Attach,8,0.184
+Telangana,Ts(Hastinapur),aug,0.16,Low Attach,8,0.276
+Delhi_Ncr,DELHI(KRISHNA NAGAR),aug,0.0,Low Attach,8,0.58
+Mumbai,Ghatkopar Br,aug,0.04,Low Attach,8,0.362
+Thane,Kalyan(Khadakpada),aug,0.17,Low Attach,8,0.291
+Thane,Thane Br,aug,0.14,Low Attach,8,0.192
+Telangana,Ap(Tirupathi-M.R.Pally),aug,0.07,Low Attach,8,0.122
+Delhi_Ncr,Haryana(Dundahera),aug,0.11,Low Attach,8,0.124
+Thane,Badlapur,aug,0.14,Low Attach,8,0.187
+Delhi_Ncr,DELHI(ASHOK VIHAR),aug,0.0,Low Attach,8,0.195
+Delhi_Ncr,Delhi(Najafgarh),aug,0.2,Medium Attach,8,-0.102
+Telangana,Ts(A.S.Rao Nagar),aug,0.0,Low Attach,8,0.334
+Telangana,Ts(Malakpet),aug,0.03,Low Attach,8,0.254
+Gujarat,Ahmedabad(Vishala) Br,aug,0.08,Low Attach,8,0.171
+Telangana,Ts(Chintalkunta),aug,0.04,Low Attach,8,0.107
+Telangana,Ap(Rajahmundry-Jln Road),aug,0.0,Low Attach,8,0.096
+Telangana,Ts(Punjagutta),aug,0.06,Low Attach,8,0.203
+Telangana,Ap(Vijayawada),aug,0.0,Low Attach,8,0.402
+Delhi_Ncr,Haryana(Palam Vihar Rd),aug,0.0,Low Attach,8,0.261
+Telangana,Ap(Kakinada),aug,0.0,Low Attach,8,0.16
+Telangana,Ts(Wrg-Pochamma Maidan),aug,0.0,Low Attach,8,0.063
+Mumbai,Mahim Br,aug,0.1,Low Attach,8,0.504
+Delhi_Ncr,DELHI(ROHINI Sector-16),aug,0.0,Low Attach,8,0.406
+Mumbai,Infiniti Br,aug,0.13,Low Attach,8,0.206
+Pune,Pune(Tilak Rd)Br,aug,0.02,Low Attach,8,0.437
+Telangana,Ts(Madinaguda),aug,0.12,Low Attach,8,0.259
+Gujarat,Ahmedabad(Rakhial) Br,aug,0.0,Low Attach,8,0.332
+Telangana,Ts(Nagaram),aug,0.17,Low Attach,8,0.251
+Telangana,Ts(Hayathnagar),aug,0.07,Low Attach,8,0.129
+Thane,Ulhasnagar Br,aug,0.0,Low Attach,8,0.087
+Gujarat,Ahmedabad(R3Mall) Br,aug,0.13,Low Attach,8,0.139
+Mumbai,Boisar Br,aug,0.0,Low Attach,8,0.06
+Telangana,Ap(Vizag),aug,0.0,Low Attach,8,-0.017
+Telangana,Ap(Ntr Circle),aug,0.0,Low Attach,8,0.0
+Gujarat,Vadodara(Kareli Baug),aug,0.03,Low Attach,8,0.164
+Gujarat,Vadodara(Alkapuri) Br,aug,0.12,Low Attach,8,0.108
+Gujarat,Vadodara(Manjalpur) Br,aug,0.01,Low Attach,8,0.238
+Thane,Kharghar Br,aug,0.0,Low Attach,8,0.0
+Telangana,Ap(Tirupathi-Leela Mahal Circle),aug,0.0,Low Attach,8,0.0
+Telangana,Ap(Rajamundry),aug,0.0,Low Attach,8,0.0
+Gujarat,Vadodara(Kothi Road),aug,0.0,Low Attach,8,0.0
+Delhi_Ncr,Delhi(Janakpuri) Br,sep,0.25,Medium Attach,9,0.1
+Delhi_Ncr,Haryana(Gurgaon) Br,sep,0.28,Medium Attach,9,0.368
+Delhi_Ncr,Up(Greater Noida) Br,sep,0.41,High Attach,9,0.263
+Pune,Pune(Bhosari) Br,sep,0.13,Low Attach,9,0.376
+Gujarat,Ahmedabad(Maninagar) Br,sep,0.21,Medium Attach,9,0.07
+Pune,Pune(Nagar Road) Br,sep,0.11,Low Attach,9,0.378
+Pune,Pune(Chinchwad) Br,sep,0.17,Low Attach,9,0.358
+Thane,Bhiwandi Br,sep,0.21,Medium Attach,9,0.437
+Delhi_Ncr,Up (Noida Sec.18) Br,sep,0.26,Medium Attach,9,0.218
+Pune,Pune(Baner) Br,sep,0.19,Low Attach,9,0.328
+Delhi_Ncr,Delhi(Hauz Khas),sep,0.8,High Attach,9,0.564
+Delhi_Ncr,Delhi(Rohini) Br,sep,0.09,Low Attach,9,0.501
+Telangana,Ts(Kondapur),sep,0.14,Low Attach,9,0.474
+Delhi_Ncr,Up(Raj Nagar Dc) Br,sep,0.26,Medium Attach,9,0.541
+Pune,Pune(Station Rd) Br,sep,0.36,High Attach,9,0.239
+Thane,Panvel Br,sep,0.18,Low Attach,9,0.202
+Mumbai,Opera House Br,sep,0.22,Medium Attach,9,0.179
+Delhi_Ncr,Delhi(Daryaganj),sep,0.39,High Attach,9,0.567
+Telangana,Ts(Vivekananda Nagar),sep,0.0,Low Attach,9,0.419
+Mumbai,Chakala Andheri Br,sep,0.17,Low Attach,9,0.297
+Thane,Ghodbunder Br,sep,0.14,Low Attach,9,0.232
+Delhi_Ncr,Haryana(Mewla M.) Br,sep,0.36,High Attach,9,0.562
+Thane,Virar Br,sep,0.11,Low Attach,9,0.167
+Delhi_Ncr,Haryana(New Faridabad),sep,0.0,Low Attach,9,0.326
+Delhi_Ncr,Delhi(Patel Nagar) Br,sep,0.18,Low Attach,9,0.181
+Delhi_Ncr,Delhi(Roop Nagar),sep,0.22,Medium Attach,9,0.359
+Delhi_Ncr,Delhi(Rajouri Garden) Br,sep,0.22,Medium Attach,9,0.178
+Delhi_Ncr,Delhi(Kalkaji) Br,sep,0.11,Low Attach,9,0.619
+Delhi_Ncr,Delhi(Karol Bagh) Br,sep,0.41,High Attach,9,0.302
+Pune,Pune(Dange Chowk),sep,0.0,Low Attach,9,1.246
+Delhi_Ncr,Delhi(Lajpatnagar) Br,sep,0.09,Low Attach,9,-0.005
+Pune,Pune(Rahatni) Br,sep,0.22,Medium Attach,9,0.217
+Delhi_Ncr,Delhi(Dwarka) Br,sep,0.21,Medium Attach,9,0.358
+Mumbai,MAHIM(VS Next),sep,0.0,Low Attach,9,0.0
+Delhi_Ncr,Haryana(Faridabad) Br,sep,0.15,Low Attach,9,0.444
+Delhi_Ncr,Delhi(Model Town Iii) Br,sep,0.26,Medium Attach,9,0.254
+Telangana,Ts(Nallakunta),sep,0.0,Low Attach,9,0.14
+Thane,Vasai Br,sep,0.25,Medium Attach,9,0.051
+Delhi_Ncr,Delhi(Paschim Vihar),sep,0.33,High Attach,9,0.226
+Thane,Dombivli Br,sep,0.43,High Attach,9,0.292
+Thane,Mira Road Br,sep,0.22,Medium Attach,9,0.441
+Gujarat,Surat(Ved Road),sep,0.08,Low Attach,9,0.37
+Thane,Kalyan Br,sep,0.09,Low Attach,9,0.263
+Gujarat,Ahmedabad(Dev Arc) Br,sep,0.24,Medium Attach,9,0.134
+Gujarat,Ahmedabad(Bopal),sep,0.14,Low Attach,9,0.357
+Delhi_Ncr,Delhi(Vikas Marg) Br,sep,0.28,Medium Attach,9,0.445
+Pune,Pune(Dhankawadi-Satara Rd),sep,0.21,Medium Attach,9,0.359
+Thane,Vashi Br,sep,0.15,Low Attach,9,0.158
+Telangana,Ts(Jubilee Hills),sep,0.07,Low Attach,9,0.1
+Mumbai,Linking Road Br,sep,0.3,High Attach,9,0.496
+Pune,Pune(Kothrud) Br,sep,0.29,Medium Attach,9,0.209
+Telangana,Ts(Warangal),sep,0.0,Low Attach,9,0.063
+Gujarat,Surat(Varachha) Br,sep,0.18,Low Attach,9,0.21
+Thane,Palghar,sep,0.29,Medium Attach,9,0.383
+Mumbai,Andheri Br,sep,0.43,High Attach,9,0.522
+Pune,Pune(S Bapat Rd),sep,0.29,Medium Attach,9,0.34
+Mumbai,Borivali Br,sep,0.19,Low Attach,9,0.506
+Delhi_Ncr,Up(Indirapuram) Br,sep,0.15,Low Attach,9,0.381
+Mumbai,Goregaon (W) Br,sep,0.29,Medium Attach,9,0.347
+Telangana,Ts(Bhel),sep,0.15,Low Attach,9,0.19
+Pune,Pune(Satara Rd) Br,sep,0.45,High Attach,9,0.195
+Mumbai,Prabhadevi Br,sep,0.24,Medium Attach,9,0.296
+Delhi_Ncr,Delhi(Defence Enclave-Palam) Br,sep,0.25,Medium Attach,9,0.452
+Delhi_Ncr,Delhi(Shahdara) Br,sep,0.33,High Attach,9,0.222
+Pune,Pune(Kondhawa),sep,0.35,High Attach,9,0.744
+Gujarat,Ahmedabad(Odhav) Br,sep,0.07,Low Attach,9,0.093
+Telangana,Ts(Kothapet),sep,0.08,Low Attach,9,0.408
+Delhi_Ncr,Delhi(Mahavir Enclave),sep,0.36,High Attach,9,0.306
+Pune,Pune(Hinjewadi) Br,sep,0.23,Medium Attach,9,0.609
+Pune,Pune(Hadapsar),sep,0.67,High Attach,9,0.685
+Pune,Pune(Solapur Rd) Br,sep,0.14,Low Attach,9,0.447
+Delhi_Ncr,Haryana(Jacobpura) Br,sep,0.22,Medium Attach,9,0.365
+Thane,Belapur Br,sep,0.29,Medium Attach,9,0.145
+Gujarat,Surat(Bhatar),sep,0.11,Low Attach,9,0.029
+Mumbai,Santacruz Br,sep,0.1,Low Attach,9,0.354
+Mumbai,Bhandup Br,sep,0.13,Low Attach,9,0.199
+Delhi_Ncr,Delhi(Uttam Nagar) Br,sep,0.11,Low Attach,9,0.431
+Mumbai,Goregaon (E) Br,sep,0.25,Medium Attach,9,0.187
+Gujarat,Ahmedabad(Ashram Rd) Br,sep,0.23,Medium Attach,9,0.011
+Telangana,Ts(Boduppal),sep,0.04,Low Attach,9,0.294
+Thane,Nallasopara Br,sep,0.05,Low Attach,9,0.087
+Delhi_Ncr,Delhi(Budh Vihar),sep,0.42,High Attach,9,0.648
+Telangana,Ts(Karmanghat),sep,0.08,Low Attach,9,0.234
+Delhi_Ncr,Delhi(Nangloi),sep,0.37,High Attach,9,0.27
+Telangana,Ts(Kompally),sep,0.15,Low Attach,9,0.347
+Thane,Currey Road,sep,0.0,Low Attach,9,0.0
+Gujarat,Surat(Mota Varachha),sep,0.0,Low Attach,9,0.207
+Mumbai,Chembur Br,sep,0.17,Low Attach,9,0.201
+Gujarat,Ahmedabad(Krishna Nagar) Br,sep,0.28,Medium Attach,9,0.049
+Telangana,Ts(Attapur),sep,0.11,Low Attach,9,0.146
+Delhi_Ncr,Delhi(Pitampura) Br,sep,0.17,Low Attach,9,0.301
+Delhi_Ncr,Delhi(Narela),sep,0.0,Low Attach,9,0.379
+Gujarat,Surat(Rander Rd) Br,sep,0.21,Medium Attach,9,0.079
+Delhi_Ncr,Delhi(Nawada),sep,0.33,High Attach,9,0.273
+Telangana,Ts(Tolichowki- Aditya Ngr),sep,0.09,Low Attach,9,0.11
+Telangana,Ts(Paradise Circle),sep,0.2,Medium Attach,9,0.188
+Telangana,Ts(Shah Ali Banda),sep,0.17,Low Attach,9,0.199
+Gujarat,Ahmedabad(Shahi Baug) Br,sep,0.18,Low Attach,9,0.169
+Telangana,Ts(Mehdipatnam),sep,0.0,Low Attach,9,0.36
+Gujarat,Surat Br,sep,0.06,Low Attach,9,0.245
+Telangana,Ts(Sun City),sep,0.08,Low Attach,9,0.568
+Gujarat,Gandhinagar(Sargasan),sep,0.0,Low Attach,9,0.008
+Gujarat,Ahmedabad(Chandkheda Rd) Br,sep,0.05,Low Attach,9,0.094
+Telangana,Ts(Nagole),sep,0.11,Low Attach,9,0.193
+Telangana,Ts(Kukatpally),sep,0.0,Low Attach,9,0.193
+Delhi_Ncr,Delhi(Burari),sep,0.3,High Attach,9,0.538
+Mumbai,Malad,sep,0.11,Low Attach,9,0.169
+Telangana,Ts(Nacharam),sep,0.0,Low Attach,9,0.203
+Thane,Mumbra(Kausa),sep,0.0,Low Attach,9,0.125
+Gujarat,Surat(Parvat Patiya),sep,0.23,Medium Attach,9,0.301
+Telangana,Ts(R C Puram),sep,0.08,Low Attach,9,0.15
+Telangana,Ts(Kompally- Golden Plaza),sep,0.1,Low Attach,9,0.49
+Mumbai,Ghatkopar(Lbs Marg) Br,sep,0.0,Low Attach,9,0.112
+Delhi_Ncr,Delhi(Durgapuri),sep,0.25,Medium Attach,9,0.441
+Telangana,Ts(Chandrayangutta),sep,0.1,Low Attach,9,0.15
+Delhi_Ncr,Haryana(Sec-65 Ext Gurugram),sep,0.15,Low Attach,9,0.242
+Delhi_Ncr,Haryana(M G Road) Br,sep,0.0,Low Attach,9,0.163
+Delhi_Ncr,Delhi(Saket) Br,sep,0.21,Medium Attach,9,0.294
+Thane,Kharghar(Patel Heritage),sep,0.15,Low Attach,9,0.223
+Gujarat,Surat(Vip Road-Vesu),sep,0.13,Low Attach,9,0.187
+Delhi_Ncr,Up(Gaur Chowk),sep,0.17,Low Attach,9,-0.028
+Telangana,Ts(Mailardevpally),sep,0.14,Low Attach,9,0.381
+Mumbai,Sion Br,sep,0.38,High Attach,9,0.184
+Telangana,Ts(Hastinapur),sep,0.1,Low Attach,9,0.276
+Delhi_Ncr,DELHI(KRISHNA NAGAR),sep,0.25,Medium Attach,9,0.58
+Mumbai,Ghatkopar Br,sep,0.19,Low Attach,9,0.362
+Thane,Kalyan(Khadakpada),sep,0.15,Low Attach,9,0.291
+Thane,Thane Br,sep,0.41,High Attach,9,0.192
+Telangana,Ap(Tirupathi-M.R.Pally),sep,0.17,Low Attach,9,0.122
+Delhi_Ncr,Haryana(Dundahera),sep,0.2,Medium Attach,9,0.124
+Thane,Badlapur,sep,0.36,High Attach,9,0.187
+Delhi_Ncr,DELHI(ASHOK VIHAR),sep,0.0,Low Attach,9,0.195
+Delhi_Ncr,Delhi(Najafgarh),sep,0.17,Low Attach,9,-0.102
+Telangana,Ts(A.S.Rao Nagar),sep,0.15,Low Attach,9,0.334
+Telangana,Ts(Malakpet),sep,0.05,Low Attach,9,0.254
+Gujarat,Ahmedabad(Vishala) Br,sep,0.17,Low Attach,9,0.171
+Telangana,Ts(Chintalkunta),sep,0.2,Medium Attach,9,0.107
+Telangana,Ap(Rajahmundry-Jln Road),sep,0.17,Low Attach,9,0.096
+Telangana,Ts(Punjagutta),sep,0.13,Low Attach,9,0.203
+Telangana,Ap(Vijayawada),sep,0.0,Low Attach,9,0.402
+Delhi_Ncr,Haryana(Palam Vihar Rd),sep,0.06,Low Attach,9,0.261
+Telangana,Ap(Kakinada),sep,0.0,Low Attach,9,0.16
+Telangana,Ts(Wrg-Pochamma Maidan),sep,0.0,Low Attach,9,0.063
+Mumbai,Mahim Br,sep,0.26,Medium Attach,9,0.504
+Delhi_Ncr,DELHI(ROHINI Sector-16),sep,0.0,Low Attach,9,0.406
+Mumbai,Infiniti Br,sep,0.09,Low Attach,9,0.206
+Pune,Pune(Tilak Rd)Br,sep,0.08,Low Attach,9,0.437
+Telangana,Ts(Madinaguda),sep,0.07,Low Attach,9,0.259
+Gujarat,Ahmedabad(Rakhial) Br,sep,0.33,High Attach,9,0.332
+Telangana,Ts(Nagaram),sep,0.1,Low Attach,9,0.251
+Telangana,Ts(Hayathnagar),sep,0.0,Low Attach,9,0.129
+Thane,Ulhasnagar Br,sep,0.0,Low Attach,9,0.087
+Gujarat,Ahmedabad(R3Mall) Br,sep,0.0,Low Attach,9,0.139
+Mumbai,Boisar Br,sep,0.0,Low Attach,9,0.06
+Telangana,Ap(Vizag),sep,0.17,Low Attach,9,-0.017
+Telangana,Ap(Ntr Circle),sep,0.0,Low Attach,9,0.0
+Gujarat,Vadodara(Kareli Baug),sep,0.12,Low Attach,9,0.164
+Gujarat,Vadodara(Alkapuri) Br,sep,0.13,Low Attach,9,0.108
+Gujarat,Vadodara(Manjalpur) Br,sep,0.0,Low Attach,9,0.238
+Thane,Kharghar Br,sep,0.0,Low Attach,9,0.0
+Telangana,Ap(Tirupathi-Leela Mahal Circle),sep,0.0,Low Attach,9,0.0
+Telangana,Ap(Rajamundry),sep,0.0,Low Attach,9,0.0
+Gujarat,Vadodara(Kothi Road),sep,0.0,Low Attach,9,0.0
+Delhi_Ncr,Delhi(Janakpuri) Br,oct,0.16,Low Attach,10,0.1
+Delhi_Ncr,Haryana(Gurgaon) Br,oct,0.15,Low Attach,10,0.368
+Delhi_Ncr,Up(Greater Noida) Br,oct,0.3,High Attach,10,0.263
+Pune,Pune(Bhosari) Br,oct,0.36,High Attach,10,0.376
+Gujarat,Ahmedabad(Maninagar) Br,oct,0.14,Low Attach,10,0.07
+Pune,Pune(Nagar Road) Br,oct,0.17,Low Attach,10,0.378
+Pune,Pune(Chinchwad) Br,oct,0.3,High Attach,10,0.358
+Thane,Bhiwandi Br,oct,0.33,High Attach,10,0.437
+Delhi_Ncr,Up (Noida Sec.18) Br,oct,0.21,Medium Attach,10,0.218
+Pune,Pune(Baner) Br,oct,0.29,Medium Attach,10,0.328
+Delhi_Ncr,Delhi(Hauz Khas),oct,0.52,High Attach,10,0.564
+Delhi_Ncr,Delhi(Rohini) Br,oct,0.27,Medium Attach,10,0.501
+Telangana,Ts(Kondapur),oct,0.13,Low Attach,10,0.474
+Delhi_Ncr,Up(Raj Nagar Dc) Br,oct,0.27,Medium Attach,10,0.541
+Pune,Pune(Station Rd) Br,oct,0.19,Low Attach,10,0.239
+Thane,Panvel Br,oct,0.27,Medium Attach,10,0.202
+Mumbai,Opera House Br,oct,0.2,Medium Attach,10,0.179
+Delhi_Ncr,Delhi(Daryaganj),oct,0.31,High Attach,10,0.567
+Telangana,Ts(Vivekananda Nagar),oct,0.08,Low Attach,10,0.419
+Mumbai,Chakala Andheri Br,oct,0.17,Low Attach,10,0.297
+Thane,Ghodbunder Br,oct,0.21,Medium Attach,10,0.232
+Delhi_Ncr,Haryana(Mewla M.) Br,oct,0.33,High Attach,10,0.562
+Thane,Virar Br,oct,0.16,Low Attach,10,0.167
+Delhi_Ncr,Haryana(New Faridabad),oct,0.12,Low Attach,10,0.326
+Delhi_Ncr,Delhi(Patel Nagar) Br,oct,0.28,Medium Attach,10,0.181
+Delhi_Ncr,Delhi(Roop Nagar),oct,0.19,Low Attach,10,0.359
+Delhi_Ncr,Delhi(Rajouri Garden) Br,oct,0.25,Medium Attach,10,0.178
+Delhi_Ncr,Delhi(Kalkaji) Br,oct,0.27,Medium Attach,10,0.619
+Delhi_Ncr,Delhi(Karol Bagh) Br,oct,0.19,Low Attach,10,0.302
+Pune,Pune(Dange Chowk),oct,0.56,High Attach,10,1.246
+Delhi_Ncr,Delhi(Lajpatnagar) Br,oct,0.07,Low Attach,10,-0.005
+Pune,Pune(Rahatni) Br,oct,0.16,Low Attach,10,0.217
+Delhi_Ncr,Delhi(Dwarka) Br,oct,0.28,Medium Attach,10,0.358
+Mumbai,MAHIM(VS Next),oct,0.0,Low Attach,10,0.0
+Delhi_Ncr,Haryana(Faridabad) Br,oct,0.33,High Attach,10,0.444
+Delhi_Ncr,Delhi(Model Town Iii) Br,oct,0.29,Medium Attach,10,0.254
+Telangana,Ts(Nallakunta),oct,0.1,Low Attach,10,0.14
+Thane,Vasai Br,oct,0.07,Low Attach,10,0.051
+Delhi_Ncr,Delhi(Paschim Vihar),oct,0.3,High Attach,10,0.226
+Thane,Dombivli Br,oct,0.2,Medium Attach,10,0.292
+Thane,Mira Road Br,oct,0.28,Medium Attach,10,0.441
+Gujarat,Surat(Ved Road),oct,0.13,Low Attach,10,0.37
+Thane,Kalyan Br,oct,0.13,Low Attach,10,0.263
+Gujarat,Ahmedabad(Dev Arc) Br,oct,0.14,Low Attach,10,0.134
+Gujarat,Ahmedabad(Bopal),oct,0.16,Low Attach,10,0.357
+Delhi_Ncr,Delhi(Vikas Marg) Br,oct,0.4,High Attach,10,0.445
+Pune,Pune(Dhankawadi-Satara Rd),oct,0.2,Medium Attach,10,0.359
+Thane,Vashi Br,oct,0.11,Low Attach,10,0.158
+Telangana,Ts(Jubilee Hills),oct,0.04,Low Attach,10,0.1
+Mumbai,Linking Road Br,oct,0.38,High Attach,10,0.496
+Pune,Pune(Kothrud) Br,oct,0.24,Medium Attach,10,0.209
+Telangana,Ts(Warangal),oct,0.04,Low Attach,10,0.063
+Gujarat,Surat(Varachha) Br,oct,0.16,Low Attach,10,0.21
+Thane,Palghar,oct,0.25,Medium Attach,10,0.383
+Mumbai,Andheri Br,oct,0.34,High Attach,10,0.522
+Pune,Pune(S Bapat Rd),oct,0.26,Medium Attach,10,0.34
+Mumbai,Borivali Br,oct,0.31,High Attach,10,0.506
+Delhi_Ncr,Up(Indirapuram) Br,oct,0.18,Low Attach,10,0.381
+Mumbai,Goregaon (W) Br,oct,0.29,Medium Attach,10,0.347
+Telangana,Ts(Bhel),oct,0.07,Low Attach,10,0.19
+Pune,Pune(Satara Rd) Br,oct,0.27,Medium Attach,10,0.195
+Mumbai,Prabhadevi Br,oct,0.18,Low Attach,10,0.296
+Delhi_Ncr,Delhi(Defence Enclave-Palam) Br,oct,0.32,High Attach,10,0.452
+Delhi_Ncr,Delhi(Shahdara) Br,oct,0.39,High Attach,10,0.222
+Pune,Pune(Kondhawa),oct,0.35,High Attach,10,0.744
+Gujarat,Ahmedabad(Odhav) Br,oct,0.17,Low Attach,10,0.093
+Telangana,Ts(Kothapet),oct,0.2,Medium Attach,10,0.408
+Delhi_Ncr,Delhi(Mahavir Enclave),oct,0.23,Medium Attach,10,0.306
+Pune,Pune(Hinjewadi) Br,oct,0.27,Medium Attach,10,0.609
+Pune,Pune(Hadapsar),oct,0.71,High Attach,10,0.685
+Pune,Pune(Solapur Rd) Br,oct,0.19,Low Attach,10,0.447
+Delhi_Ncr,Haryana(Jacobpura) Br,oct,0.13,Low Attach,10,0.365
+Thane,Belapur Br,oct,0.17,Low Attach,10,0.145
+Gujarat,Surat(Bhatar),oct,0.14,Low Attach,10,0.029
+Mumbai,Santacruz Br,oct,0.1,Low Attach,10,0.354
+Mumbai,Bhandup Br,oct,0.11,Low Attach,10,0.199
+Delhi_Ncr,Delhi(Uttam Nagar) Br,oct,0.22,Medium Attach,10,0.431
+Mumbai,Goregaon (E) Br,oct,0.1,Low Attach,10,0.187
+Gujarat,Ahmedabad(Ashram Rd) Br,oct,0.1,Low Attach,10,0.011
+Telangana,Ts(Boduppal),oct,0.11,Low Attach,10,0.294
+Thane,Nallasopara Br,oct,0.02,Low Attach,10,0.087
+Delhi_Ncr,Delhi(Budh Vihar),oct,0.45,High Attach,10,0.648
+Telangana,Ts(Karmanghat),oct,0.16,Low Attach,10,0.234
+Delhi_Ncr,Delhi(Nangloi),oct,0.24,Medium Attach,10,0.27
+Telangana,Ts(Kompally),oct,0.11,Low Attach,10,0.347
+Thane,Currey Road,oct,0.0,Low Attach,10,0.0
+Gujarat,Surat(Mota Varachha),oct,0.14,Low Attach,10,0.207
+Mumbai,Chembur Br,oct,0.11,Low Attach,10,0.201
+Gujarat,Ahmedabad(Krishna Nagar) Br,oct,0.03,Low Attach,10,0.049
+Telangana,Ts(Attapur),oct,0.02,Low Attach,10,0.146
+Delhi_Ncr,Delhi(Pitampura) Br,oct,0.19,Low Attach,10,0.301
+Delhi_Ncr,Delhi(Narela),oct,0.43,High Attach,10,0.379
+Gujarat,Surat(Rander Rd) Br,oct,0.17,Low Attach,10,0.079
+Delhi_Ncr,Delhi(Nawada),oct,0.17,Low Attach,10,0.273
+Telangana,Ts(Tolichowki- Aditya Ngr),oct,0.11,Low Attach,10,0.11
+Telangana,Ts(Paradise Circle),oct,0.11,Low Attach,10,0.188
+Telangana,Ts(Shah Ali Banda),oct,0.11,Low Attach,10,0.199
+Gujarat,Ahmedabad(Shahi Baug) Br,oct,0.1,Low Attach,10,0.169
+Telangana,Ts(Mehdipatnam),oct,0.0,Low Attach,10,0.36
+Gujarat,Surat Br,oct,0.16,Low Attach,10,0.245
+Telangana,Ts(Sun City),oct,0.18,Low Attach,10,0.568
+Gujarat,Gandhinagar(Sargasan),oct,0.01,Low Attach,10,0.008
+Gujarat,Ahmedabad(Chandkheda Rd) Br,oct,0.11,Low Attach,10,0.094
+Telangana,Ts(Nagole),oct,0.1,Low Attach,10,0.193
+Telangana,Ts(Kukatpally),oct,0.04,Low Attach,10,0.193
+Delhi_Ncr,Delhi(Burari),oct,0.28,Medium Attach,10,0.538
+Mumbai,Malad,oct,0.13,Low Attach,10,0.169
+Telangana,Ts(Nacharam),oct,0.07,Low Attach,10,0.203
+Thane,Mumbra(Kausa),oct,0.05,Low Attach,10,0.125
+Gujarat,Surat(Parvat Patiya),oct,0.23,Medium Attach,10,0.301
+Telangana,Ts(R C Puram),oct,0.1,Low Attach,10,0.15
+Telangana,Ts(Kompally- Golden Plaza),oct,0.14,Low Attach,10,0.49
+Mumbai,Ghatkopar(Lbs Marg) Br,oct,0.06,Low Attach,10,0.112
+Delhi_Ncr,Delhi(Durgapuri),oct,0.34,High Attach,10,0.441
+Telangana,Ts(Chandrayangutta),oct,0.06,Low Attach,10,0.15
+Delhi_Ncr,Haryana(Sec-65 Ext Gurugram),oct,0.19,Low Attach,10,0.242
+Delhi_Ncr,Haryana(M G Road) Br,oct,0.16,Low Attach,10,0.163
+Delhi_Ncr,Delhi(Saket) Br,oct,0.17,Low Attach,10,0.294
+Thane,Kharghar(Patel Heritage),oct,0.03,Low Attach,10,0.223
+Gujarat,Surat(Vip Road-Vesu),oct,0.14,Low Attach,10,0.187
+Delhi_Ncr,Up(Gaur Chowk),oct,0.1,Low Attach,10,-0.028
+Telangana,Ts(Mailardevpally),oct,0.04,Low Attach,10,0.381
+Mumbai,Sion Br,oct,0.2,Medium Attach,10,0.184
+Telangana,Ts(Hastinapur),oct,0.17,Low Attach,10,0.276
+Delhi_Ncr,DELHI(KRISHNA NAGAR),oct,0.25,Medium Attach,10,0.58
+Mumbai,Ghatkopar Br,oct,0.19,Low Attach,10,0.362
+Thane,Kalyan(Khadakpada),oct,0.26,Medium Attach,10,0.291
+Thane,Thane Br,oct,0.25,Medium Attach,10,0.192
+Telangana,Ap(Tirupathi-M.R.Pally),oct,0.13,Low Attach,10,0.122
+Delhi_Ncr,Haryana(Dundahera),oct,0.17,Low Attach,10,0.124
+Thane,Badlapur,oct,0.19,Low Attach,10,0.187
+Delhi_Ncr,DELHI(ASHOK VIHAR),oct,0.0,Low Attach,10,0.195
+Delhi_Ncr,Delhi(Najafgarh),oct,0.06,Low Attach,10,-0.102
+Telangana,Ts(A.S.Rao Nagar),oct,0.17,Low Attach,10,0.334
+Telangana,Ts(Malakpet),oct,0.06,Low Attach,10,0.254
+Gujarat,Ahmedabad(Vishala) Br,oct,0.16,Low Attach,10,0.171
+Telangana,Ts(Chintalkunta),oct,0.07,Low Attach,10,0.107
+Telangana,Ap(Rajahmundry-Jln Road),oct,0.08,Low Attach,10,0.096
+Telangana,Ts(Punjagutta),oct,0.05,Low Attach,10,0.203
+Telangana,Ap(Vijayawada),oct,0.15,Low Attach,10,0.402
+Delhi_Ncr,Haryana(Palam Vihar Rd),oct,0.12,Low Attach,10,0.261
+Telangana,Ap(Kakinada),oct,0.05,Low Attach,10,0.16
+Telangana,Ts(Wrg-Pochamma Maidan),oct,0.04,Low Attach,10,0.063
+Mumbai,Mahim Br,oct,0.15,Low Attach,10,0.504
+Delhi_Ncr,DELHI(ROHINI Sector-16),oct,0.07,Low Attach,10,0.406
+Mumbai,Infiniti Br,oct,0.12,Low Attach,10,0.206
+Pune,Pune(Tilak Rd)Br,oct,0.14,Low Attach,10,0.437
+Telangana,Ts(Madinaguda),oct,0.17,Low Attach,10,0.259
+Gujarat,Ahmedabad(Rakhial) Br,oct,0.11,Low Attach,10,0.332
+Telangana,Ts(Nagaram),oct,0.12,Low Attach,10,0.251
+Telangana,Ts(Hayathnagar),oct,0.07,Low Attach,10,0.129
+Thane,Ulhasnagar Br,oct,0.08,Low Attach,10,0.087
+Gujarat,Ahmedabad(R3Mall) Br,oct,0.21,Medium Attach,10,0.139
+Mumbai,Boisar Br,oct,0.1,Low Attach,10,0.06
+Telangana,Ap(Vizag),oct,0.0,Low Attach,10,-0.017
+Telangana,Ap(Ntr Circle),oct,0.0,Low Attach,10,0.0
+Gujarat,Vadodara(Kareli Baug),oct,0.16,Low Attach,10,0.164
+Gujarat,Vadodara(Alkapuri) Br,oct,0.08,Low Attach,10,0.108
+Gujarat,Vadodara(Manjalpur) Br,oct,0.15,Low Attach,10,0.238
+Thane,Kharghar Br,oct,0.0,Low Attach,10,0.0
+Telangana,Ap(Tirupathi-Leela Mahal Circle),oct,0.0,Low Attach,10,0.0
+Telangana,Ap(Rajamundry),oct,0.0,Low Attach,10,0.0
+Gujarat,Vadodara(Kothi Road),oct,0.0,Low Attach,10,0.0
+Delhi_Ncr,Delhi(Janakpuri) Br,nov,0.17,Low Attach,11,0.1
+Delhi_Ncr,Haryana(Gurgaon) Br,nov,0.26,Medium Attach,11,0.368
+Delhi_Ncr,Up(Greater Noida) Br,nov,0.36,High Attach,11,0.263
+Pune,Pune(Bhosari) Br,nov,0.33,High Attach,11,0.376
+Gujarat,Ahmedabad(Maninagar) Br,nov,0.11,Low Attach,11,0.07
+Pune,Pune(Nagar Road) Br,nov,0.35,High Attach,11,0.378
+Pune,Pune(Chinchwad) Br,nov,0.31,High Attach,11,0.358
+Thane,Bhiwandi Br,nov,0.44,High Attach,11,0.437
+Delhi_Ncr,Up (Noida Sec.18) Br,nov,0.22,Medium Attach,11,0.218
+Pune,Pune(Baner) Br,nov,0.25,Medium Attach,11,0.328
+Delhi_Ncr,Delhi(Hauz Khas),nov,0.6,High Attach,11,0.564
+Delhi_Ncr,Delhi(Rohini) Br,nov,0.36,High Attach,11,0.501
+Telangana,Ts(Kondapur),nov,0.42,High Attach,11,0.474
+Delhi_Ncr,Up(Raj Nagar Dc) Br,nov,0.41,High Attach,11,0.541
+Pune,Pune(Station Rd) Br,nov,0.21,Medium Attach,11,0.239
+Thane,Panvel Br,nov,0.18,Low Attach,11,0.202
+Mumbai,Opera House Br,nov,0.21,Medium Attach,11,0.179
+Delhi_Ncr,Delhi(Daryaganj),nov,0.52,High Attach,11,0.567
+Telangana,Ts(Vivekananda Nagar),nov,0.31,High Attach,11,0.419
+Mumbai,Chakala Andheri Br,nov,0.2,Medium Attach,11,0.297
+Thane,Ghodbunder Br,nov,0.16,Low Attach,11,0.232
+Delhi_Ncr,Haryana(Mewla M.) Br,nov,0.4,High Attach,11,0.562
+Thane,Virar Br,nov,0.1,Low Attach,11,0.167
+Delhi_Ncr,Haryana(New Faridabad),nov,0.22,Medium Attach,11,0.326
+Delhi_Ncr,Delhi(Patel Nagar) Br,nov,0.27,Medium Attach,11,0.181
+Delhi_Ncr,Delhi(Roop Nagar),nov,0.31,High Attach,11,0.359
+Delhi_Ncr,Delhi(Rajouri Garden) Br,nov,0.26,Medium Attach,11,0.178
+Delhi_Ncr,Delhi(Kalkaji) Br,nov,0.36,High Attach,11,0.619
+Delhi_Ncr,Delhi(Karol Bagh) Br,nov,0.25,Medium Attach,11,0.302
+Pune,Pune(Dange Chowk),nov,0.7,High Attach,11,1.246
+Delhi_Ncr,Delhi(Lajpatnagar) Br,nov,0.1,Low Attach,11,-0.005
+Pune,Pune(Rahatni) Br,nov,0.19,Low Attach,11,0.217
+Delhi_Ncr,Delhi(Dwarka) Br,nov,0.31,High Attach,11,0.358
+Mumbai,MAHIM(VS Next),nov,0.0,Low Attach,11,0.0
+Delhi_Ncr,Haryana(Faridabad) Br,nov,0.25,Medium Attach,11,0.444
+Delhi_Ncr,Delhi(Model Town Iii) Br,nov,0.26,Medium Attach,11,0.254
+Telangana,Ts(Nallakunta),nov,0.16,Low Attach,11,0.14
+Thane,Vasai Br,nov,0.1,Low Attach,11,0.051
+Delhi_Ncr,Delhi(Paschim Vihar),nov,0.27,Medium Attach,11,0.226
+Thane,Dombivli Br,nov,0.19,Low Attach,11,0.292
+Thane,Mira Road Br,nov,0.27,Medium Attach,11,0.441
+Gujarat,Surat(Ved Road),nov,0.28,Medium Attach,11,0.37
+Thane,Kalyan Br,nov,0.18,Low Attach,11,0.263
+Gujarat,Ahmedabad(Dev Arc) Br,nov,0.18,Low Attach,11,0.134
+Gujarat,Ahmedabad(Bopal),nov,0.31,High Attach,11,0.357
+Delhi_Ncr,Delhi(Vikas Marg) Br,nov,0.37,High Attach,11,0.445
+Pune,Pune(Dhankawadi-Satara Rd),nov,0.28,Medium Attach,11,0.359
+Thane,Vashi Br,nov,0.15,Low Attach,11,0.158
+Telangana,Ts(Jubilee Hills),nov,0.15,Low Attach,11,0.1
+Mumbai,Linking Road Br,nov,0.42,High Attach,11,0.496
+Pune,Pune(Kothrud) Br,nov,0.3,High Attach,11,0.209
+Telangana,Ts(Warangal),nov,0.03,Low Attach,11,0.063
+Gujarat,Surat(Varachha) Br,nov,0.2,Medium Attach,11,0.21
+Thane,Palghar,nov,0.3,High Attach,11,0.383
+Mumbai,Andheri Br,nov,0.37,High Attach,11,0.522
+Pune,Pune(S Bapat Rd),nov,0.33,High Attach,11,0.34
+Mumbai,Borivali Br,nov,0.31,High Attach,11,0.506
+Delhi_Ncr,Up(Indirapuram) Br,nov,0.24,Medium Attach,11,0.381
+Mumbai,Goregaon (W) Br,nov,0.26,Medium Attach,11,0.347
+Telangana,Ts(Bhel),nov,0.23,Medium Attach,11,0.19
+Pune,Pune(Satara Rd) Br,nov,0.22,Medium Attach,11,0.195
+Mumbai,Prabhadevi Br,nov,0.28,Medium Attach,11,0.296
+Delhi_Ncr,Delhi(Defence Enclave-Palam) Br,nov,0.41,High Attach,11,0.452
+Delhi_Ncr,Delhi(Shahdara) Br,nov,0.25,Medium Attach,11,0.222
+Pune,Pune(Kondhawa),nov,0.61,High Attach,11,0.744
+Gujarat,Ahmedabad(Odhav) Br,nov,0.06,Low Attach,11,0.093
+Telangana,Ts(Kothapet),nov,0.32,High Attach,11,0.408
+Delhi_Ncr,Delhi(Mahavir Enclave),nov,0.28,Medium Attach,11,0.306
+Pune,Pune(Hinjewadi) Br,nov,0.38,High Attach,11,0.609
+Pune,Pune(Hadapsar),nov,0.62,High Attach,11,0.685
+Pune,Pune(Solapur Rd) Br,nov,0.31,High Attach,11,0.447
+Delhi_Ncr,Haryana(Jacobpura) Br,nov,0.25,Medium Attach,11,0.365
+Thane,Belapur Br,nov,0.16,Low Attach,11,0.145
+Gujarat,Surat(Bhatar),nov,0.04,Low Attach,11,0.029
+Mumbai,Santacruz Br,nov,0.24,Medium Attach,11,0.354
+Mumbai,Bhandup Br,nov,0.18,Low Attach,11,0.199
+Delhi_Ncr,Delhi(Uttam Nagar) Br,nov,0.38,High Attach,11,0.431
+Mumbai,Goregaon (E) Br,nov,0.16,Low Attach,11,0.187
+Gujarat,Ahmedabad(Ashram Rd) Br,nov,0.06,Low Attach,11,0.011
+Telangana,Ts(Boduppal),nov,0.24,Medium Attach,11,0.294
+Thane,Nallasopara Br,nov,0.08,Low Attach,11,0.087
+Delhi_Ncr,Delhi(Budh Vihar),nov,0.44,High Attach,11,0.648
+Telangana,Ts(Karmanghat),nov,0.18,Low Attach,11,0.234
+Delhi_Ncr,Delhi(Nangloi),nov,0.31,High Attach,11,0.27
+Telangana,Ts(Kompally),nov,0.24,Medium Attach,11,0.347
+Thane,Currey Road,nov,0.0,Low Attach,11,0.0
+Gujarat,Surat(Mota Varachha),nov,0.15,Low Attach,11,0.207
+Mumbai,Chembur Br,nov,0.16,Low Attach,11,0.201
+Gujarat,Ahmedabad(Krishna Nagar) Br,nov,0.07,Low Attach,11,0.049
+Telangana,Ts(Attapur),nov,0.13,Low Attach,11,0.146
+Delhi_Ncr,Delhi(Pitampura) Br,nov,0.28,Medium Attach,11,0.301
+Delhi_Ncr,Delhi(Narela),nov,0.29,Medium Attach,11,0.379
+Gujarat,Surat(Rander Rd) Br,nov,0.14,Low Attach,11,0.079
+Delhi_Ncr,Delhi(Nawada),nov,0.2,Medium Attach,11,0.273
+Telangana,Ts(Tolichowki- Aditya Ngr),nov,0.17,Low Attach,11,0.11
+Telangana,Ts(Paradise Circle),nov,0.22,Medium Attach,11,0.188
+Telangana,Ts(Shah Ali Banda),nov,0.14,Low Attach,11,0.199
+Gujarat,Ahmedabad(Shahi Baug) Br,nov,0.11,Low Attach,11,0.169
+Telangana,Ts(Mehdipatnam),nov,0.32,High Attach,11,0.36
+Gujarat,Surat Br,nov,0.15,Low Attach,11,0.245
+Telangana,Ts(Sun City),nov,0.36,High Attach,11,0.568
+Gujarat,Gandhinagar(Sargasan),nov,0.02,Low Attach,11,0.008
+Gujarat,Ahmedabad(Chandkheda Rd) Br,nov,0.13,Low Attach,11,0.094
+Telangana,Ts(Nagole),nov,0.16,Low Attach,11,0.193
+Telangana,Ts(Kukatpally),nov,0.13,Low Attach,11,0.193
+Delhi_Ncr,Delhi(Burari),nov,0.48,High Attach,11,0.538
+Mumbai,Malad,nov,0.14,Low Attach,11,0.169
+Telangana,Ts(Nacharam),nov,0.21,Medium Attach,11,0.203
+Thane,Mumbra(Kausa),nov,0.11,Low Attach,11,0.125
+Gujarat,Surat(Parvat Patiya),nov,0.18,Low Attach,11,0.301
+Telangana,Ts(R C Puram),nov,0.18,Low Attach,11,0.15
+Telangana,Ts(Kompally- Golden Plaza),nov,0.32,High Attach,11,0.49
+Mumbai,Ghatkopar(Lbs Marg) Br,nov,0.12,Low Attach,11,0.112
+Delhi_Ncr,Delhi(Durgapuri),nov,0.38,High Attach,11,0.441
+Telangana,Ts(Chandrayangutta),nov,0.12,Low Attach,11,0.15
+Delhi_Ncr,Haryana(Sec-65 Ext Gurugram),nov,0.27,Medium Attach,11,0.242
+Delhi_Ncr,Haryana(M G Road) Br,nov,0.07,Low Attach,11,0.163
+Delhi_Ncr,Delhi(Saket) Br,nov,0.17,Low Attach,11,0.294
+Thane,Kharghar(Patel Heritage),nov,0.2,Medium Attach,11,0.223
+Gujarat,Surat(Vip Road-Vesu),nov,0.12,Low Attach,11,0.187
+Delhi_Ncr,Up(Gaur Chowk),nov,0.05,Low Attach,11,-0.028
+Telangana,Ts(Mailardevpally),nov,0.31,High Attach,11,0.381
+Mumbai,Sion Br,nov,0.22,Medium Attach,11,0.184
+Telangana,Ts(Hastinapur),nov,0.24,Medium Attach,11,0.276
+Delhi_Ncr,DELHI(KRISHNA NAGAR),nov,0.35,High Attach,11,0.58
+Mumbai,Ghatkopar Br,nov,0.23,Medium Attach,11,0.362
+Thane,Kalyan(Khadakpada),nov,0.22,Medium Attach,11,0.291
+Thane,Thane Br,nov,0.15,Low Attach,11,0.192
+Telangana,Ap(Tirupathi-M.R.Pally),nov,0.09,Low Attach,11,0.122
+Delhi_Ncr,Haryana(Dundahera),nov,0.1,Low Attach,11,0.124
+Thane,Badlapur,nov,0.17,Low Attach,11,0.187
+Delhi_Ncr,DELHI(ASHOK VIHAR),nov,0.15,Low Attach,11,0.195
+Delhi_Ncr,Delhi(Najafgarh),nov,0.03,Low Attach,11,-0.102
+Telangana,Ts(A.S.Rao Nagar),nov,0.19,Low Attach,11,0.334
+Telangana,Ts(Malakpet),nov,0.19,Low Attach,11,0.254
+Gujarat,Ahmedabad(Vishala) Br,nov,0.12,Low Attach,11,0.171
+Telangana,Ts(Chintalkunta),nov,0.09,Low Attach,11,0.107
+Telangana,Ap(Rajahmundry-Jln Road),nov,0.05,Low Attach,11,0.096
+Telangana,Ts(Punjagutta),nov,0.18,Low Attach,11,0.203
+Telangana,Ap(Vijayawada),nov,0.24,Medium Attach,11,0.402
+Delhi_Ncr,Haryana(Palam Vihar Rd),nov,0.15,Low Attach,11,0.261
+Telangana,Ap(Kakinada),nov,0.1,Low Attach,11,0.16
+Telangana,Ts(Wrg-Pochamma Maidan),nov,0.03,Low Attach,11,0.063
+Mumbai,Mahim Br,nov,0.4,High Attach,11,0.504
+Delhi_Ncr,DELHI(ROHINI Sector-16),nov,0.28,Medium Attach,11,0.406
+Mumbai,Infiniti Br,nov,0.19,Low Attach,11,0.206
+Pune,Pune(Tilak Rd)Br,nov,0.29,Medium Attach,11,0.437
+Telangana,Ts(Madinaguda),nov,0.2,Medium Attach,11,0.259
+Gujarat,Ahmedabad(Rakhial) Br,nov,0.23,Medium Attach,11,0.332
+Telangana,Ts(Nagaram),nov,0.25,Medium Attach,11,0.251
+Telangana,Ts(Hayathnagar),nov,0.11,Low Attach,11,0.129
+Thane,Ulhasnagar Br,nov,0.03,Low Attach,11,0.087
+Gujarat,Ahmedabad(R3Mall) Br,nov,0.09,Low Attach,11,0.139
+Mumbai,Boisar Br,nov,0.0,Low Attach,11,0.06
+Telangana,Ap(Vizag),nov,0.0,Low Attach,11,-0.017
+Telangana,Ap(Ntr Circle),nov,0.0,Low Attach,11,0.0
+Gujarat,Vadodara(Kareli Baug),nov,0.08,Low Attach,11,0.164
+Gujarat,Vadodara(Alkapuri) Br,nov,0.13,Low Attach,11,0.108
+Gujarat,Vadodara(Manjalpur) Br,nov,0.12,Low Attach,11,0.238
+Thane,Kharghar Br,nov,0.0,Low Attach,11,0.0
+Telangana,Ap(Tirupathi-Leela Mahal Circle),nov,0.0,Low Attach,11,0.0
+Telangana,Ap(Rajamundry),nov,0.0,Low Attach,11,0.0
+Gujarat,Vadodara(Kothi Road),nov,0.0,Low Attach,11,0.0
+Delhi_Ncr,Delhi(Janakpuri) Br,dec,0.23,Medium Attach,12,0.1
+Delhi_Ncr,Haryana(Gurgaon) Br,dec,0.21,Medium Attach,12,0.368
+Delhi_Ncr,Up(Greater Noida) Br,dec,0.25,Medium Attach,12,0.263
+Pune,Pune(Bhosari) Br,dec,0.33,High Attach,12,0.376
+Gujarat,Ahmedabad(Maninagar) Br,dec,0.19,Low Attach,12,0.07
+Pune,Pune(Nagar Road) Br,dec,0.46,High Attach,12,0.378
+Pune,Pune(Chinchwad) Br,dec,0.29,Medium Attach,12,0.358
+Thane,Bhiwandi Br,dec,0.44,High Attach,12,0.437
+Delhi_Ncr,Up (Noida Sec.18) Br,dec,0.19,Low Attach,12,0.218
+Pune,Pune(Baner) Br,dec,0.26,Medium Attach,12,0.328
+Delhi_Ncr,Delhi(Hauz Khas),dec,0.63,High Attach,12,0.564
+Delhi_Ncr,Delhi(Rohini) Br,dec,0.31,High Attach,12,0.501
+Telangana,Ts(Kondapur),dec,0.56,High Attach,12,0.474
+Delhi_Ncr,Up(Raj Nagar Dc) Br,dec,0.4,High Attach,12,0.541
+Pune,Pune(Station Rd) Br,dec,0.13,Low Attach,12,0.239
+Thane,Panvel Br,dec,0.18,Low Attach,12,0.202
+Mumbai,Opera House Br,dec,0.23,Medium Attach,12,0.179
+Delhi_Ncr,Delhi(Daryaganj),dec,0.39,High Attach,12,0.567
+Telangana,Ts(Vivekananda Nagar),dec,0.31,High Attach,12,0.419
+Mumbai,Chakala Andheri Br,dec,0.18,Low Attach,12,0.297
+Thane,Ghodbunder Br,dec,0.31,High Attach,12,0.232
+Delhi_Ncr,Haryana(Mewla M.) Br,dec,0.52,High Attach,12,0.562
+Thane,Virar Br,dec,0.24,Medium Attach,12,0.167
+Delhi_Ncr,Haryana(New Faridabad),dec,0.36,High Attach,12,0.326
+Delhi_Ncr,Delhi(Patel Nagar) Br,dec,0.46,High Attach,12,0.181
+Delhi_Ncr,Delhi(Roop Nagar),dec,0.17,Low Attach,12,0.359
+Delhi_Ncr,Delhi(Rajouri Garden) Br,dec,0.21,Medium Attach,12,0.178
+Delhi_Ncr,Delhi(Kalkaji) Br,dec,0.39,High Attach,12,0.619
+Delhi_Ncr,Delhi(Karol Bagh) Br,dec,0.43,High Attach,12,0.302
+Pune,Pune(Dange Chowk),dec,0.58,High Attach,12,1.246
+Delhi_Ncr,Delhi(Lajpatnagar) Br,dec,0.18,Low Attach,12,-0.005
+Pune,Pune(Rahatni) Br,dec,0.23,Medium Attach,12,0.217
+Delhi_Ncr,Delhi(Dwarka) Br,dec,0.36,High Attach,12,0.358
+Mumbai,MAHIM(VS Next),dec,0.0,Low Attach,12,0.0
+Delhi_Ncr,Haryana(Faridabad) Br,dec,0.23,Medium Attach,12,0.444
+Delhi_Ncr,Delhi(Model Town Iii) Br,dec,0.46,High Attach,12,0.254
+Telangana,Ts(Nallakunta),dec,0.29,Medium Attach,12,0.14
+Thane,Vasai Br,dec,0.07,Low Attach,12,0.051
+Delhi_Ncr,Delhi(Paschim Vihar),dec,0.35,High Attach,12,0.226
+Thane,Dombivli Br,dec,0.21,Medium Attach,12,0.292
+Thane,Mira Road Br,dec,0.2,Medium Attach,12,0.441
+Gujarat,Surat(Ved Road),dec,0.29,Medium Attach,12,0.37
+Thane,Kalyan Br,dec,0.2,Medium Attach,12,0.263
+Gujarat,Ahmedabad(Dev Arc) Br,dec,0.25,Medium Attach,12,0.134
+Gujarat,Ahmedabad(Bopal),dec,0.35,High Attach,12,0.357
+Delhi_Ncr,Delhi(Vikas Marg) Br,dec,0.32,High Attach,12,0.445
+Pune,Pune(Dhankawadi-Satara Rd),dec,0.12,Low Attach,12,0.359
+Thane,Vashi Br,dec,0.11,Low Attach,12,0.158
+Telangana,Ts(Jubilee Hills),dec,0.0,Low Attach,12,0.1
+Mumbai,Linking Road Br,dec,0.04,Low Attach,12,0.496
+Pune,Pune(Kothrud) Br,dec,0.29,Medium Attach,12,0.209
+Telangana,Ts(Warangal),dec,0.13,Low Attach,12,0.063
+Gujarat,Surat(Varachha) Br,dec,0.2,Medium Attach,12,0.21
+Thane,Palghar,dec,0.33,High Attach,12,0.383
+Mumbai,Andheri Br,dec,0.39,High Attach,12,0.522
+Pune,Pune(S Bapat Rd),dec,0.54,High Attach,12,0.34
+Mumbai,Borivali Br,dec,0.26,Medium Attach,12,0.506
+Delhi_Ncr,Up(Indirapuram) Br,dec,0.13,Low Attach,12,0.381
+Mumbai,Goregaon (W) Br,dec,0.44,High Attach,12,0.347
+Telangana,Ts(Bhel),dec,0.83,High Attach,12,0.19
+Pune,Pune(Satara Rd) Br,dec,0.06,Low Attach,12,0.195
+Mumbai,Prabhadevi Br,dec,0.3,High Attach,12,0.296
+Delhi_Ncr,Delhi(Defence Enclave-Palam) Br,dec,0.45,High Attach,12,0.452
+Delhi_Ncr,Delhi(Shahdara) Br,dec,0.25,Medium Attach,12,0.222
+Pune,Pune(Kondhawa),dec,0.48,High Attach,12,0.744
+Gujarat,Ahmedabad(Odhav) Br,dec,0.46,High Attach,12,0.093
+Telangana,Ts(Kothapet),dec,0.25,Medium Attach,12,0.408
+Delhi_Ncr,Delhi(Mahavir Enclave),dec,0.43,High Attach,12,0.306
+Pune,Pune(Hinjewadi) Br,dec,0.21,Medium Attach,12,0.609
+Pune,Pune(Hadapsar),dec,0.33,High Attach,12,0.685
+Pune,Pune(Solapur Rd) Br,dec,0.3,High Attach,12,0.447
+Delhi_Ncr,Haryana(Jacobpura) Br,dec,0.27,Medium Attach,12,0.365
+Thane,Belapur Br,dec,0.04,Low Attach,12,0.145
+Gujarat,Surat(Bhatar),dec,0.22,Medium Attach,12,0.029
+Mumbai,Santacruz Br,dec,0.6,High Attach,12,0.354
+Mumbai,Bhandup Br,dec,0.23,Medium Attach,12,0.199
+Delhi_Ncr,Delhi(Uttam Nagar) Br,dec,0.29,Medium Attach,12,0.431
+Mumbai,Goregaon (E) Br,dec,0.11,Low Attach,12,0.187
+Gujarat,Ahmedabad(Ashram Rd) Br,dec,0.16,Low Attach,12,0.011
+Telangana,Ts(Boduppal),dec,0.22,Medium Attach,12,0.294
+Thane,Nallasopara Br,dec,0.25,Medium Attach,12,0.087
+Delhi_Ncr,Delhi(Budh Vihar),dec,0.45,High Attach,12,0.648
+Telangana,Ts(Karmanghat),dec,0.1,Low Attach,12,0.234
+Delhi_Ncr,Delhi(Nangloi),dec,0.0,Low Attach,12,0.27
+Telangana,Ts(Kompally),dec,0.25,Medium Attach,12,0.347
+Thane,Currey Road,dec,0.0,Low Attach,12,0.0
+Gujarat,Surat(Mota Varachha),dec,0.23,Medium Attach,12,0.207
+Mumbai,Chembur Br,dec,0.06,Low Attach,12,0.201
+Gujarat,Ahmedabad(Krishna Nagar) Br,dec,0.23,Medium Attach,12,0.049
+Telangana,Ts(Attapur),dec,0.29,Medium Attach,12,0.146
+Delhi_Ncr,Delhi(Pitampura) Br,dec,0.15,Low Attach,12,0.301
+Delhi_Ncr,Delhi(Narela),dec,0.75,High Attach,12,0.379
+Gujarat,Surat(Rander Rd) Br,dec,0.3,High Attach,12,0.079
+Delhi_Ncr,Delhi(Nawada),dec,0.05,Low Attach,12,0.273
+Telangana,Ts(Tolichowki- Aditya Ngr),dec,0.31,High Attach,12,0.11
+Telangana,Ts(Paradise Circle),dec,0.15,Low Attach,12,0.188
+Telangana,Ts(Shah Ali Banda),dec,0.18,Low Attach,12,0.199
+Gujarat,Ahmedabad(Shahi Baug) Br,dec,0.32,High Attach,12,0.169
+Telangana,Ts(Mehdipatnam),dec,0.33,High Attach,12,0.36
+Gujarat,Surat Br,dec,0.2,Medium Attach,12,0.245
+Telangana,Ts(Sun City),dec,0.2,Medium Attach,12,0.568
+Gujarat,Gandhinagar(Sargasan),dec,0.2,Medium Attach,12,0.008
+Gujarat,Ahmedabad(Chandkheda Rd) Br,dec,0.07,Low Attach,12,0.094
+Telangana,Ts(Nagole),dec,0.13,Low Attach,12,0.193
+Telangana,Ts(Kukatpally),dec,0.38,High Attach,12,0.193
+Delhi_Ncr,Delhi(Burari),dec,0.33,High Attach,12,0.538
+Mumbai,Malad,dec,0.27,Medium Attach,12,0.169
+Telangana,Ts(Nacharam),dec,0.29,Medium Attach,12,0.203
+Thane,Mumbra(Kausa),dec,0.17,Low Attach,12,0.125
+Gujarat,Surat(Parvat Patiya),dec,0.2,Medium Attach,12,0.301
+Telangana,Ts(R C Puram),dec,0.07,Low Attach,12,0.15
+Telangana,Ts(Kompally- Golden Plaza),dec,0.13,Low Attach,12,0.49
+Mumbai,Ghatkopar(Lbs Marg) Br,dec,0.09,Low Attach,12,0.112
+Delhi_Ncr,Delhi(Durgapuri),dec,0.13,Low Attach,12,0.441
+Telangana,Ts(Chandrayangutta),dec,0.18,Low Attach,12,0.15
+Delhi_Ncr,Haryana(Sec-65 Ext Gurugram),dec,0.3,High Attach,12,0.242
+Delhi_Ncr,Haryana(M G Road) Br,dec,1.0,High Attach,12,0.163
+Delhi_Ncr,Delhi(Saket) Br,dec,0.04,Low Attach,12,0.294
+Thane,Kharghar(Patel Heritage),dec,0.15,Low Attach,12,0.223
+Gujarat,Surat(Vip Road-Vesu),dec,0.0,Low Attach,12,0.187
+Delhi_Ncr,Up(Gaur Chowk),dec,0.06,Low Attach,12,-0.028
+Telangana,Ts(Mailardevpally),dec,0.29,Medium Attach,12,0.381
+Mumbai,Sion Br,dec,0.13,Low Attach,12,0.184
+Telangana,Ts(Hastinapur),dec,0.15,Low Attach,12,0.276
+Delhi_Ncr,DELHI(KRISHNA NAGAR),dec,0.0,Low Attach,12,0.58
+Mumbai,Ghatkopar Br,dec,0.14,Low Attach,12,0.362
+Thane,Kalyan(Khadakpada),dec,0.11,Low Attach,12,0.291
+Thane,Thane Br,dec,0.03,Low Attach,12,0.192
+Telangana,Ap(Tirupathi-M.R.Pally),dec,0.17,Low Attach,12,0.122
+Delhi_Ncr,Haryana(Dundahera),dec,0.1,Low Attach,12,0.124
+Thane,Badlapur,dec,0.0,Low Attach,12,0.187
+Delhi_Ncr,DELHI(ASHOK VIHAR),dec,0.17,Low Attach,12,0.195
+Delhi_Ncr,Delhi(Najafgarh),dec,0.0,Low Attach,12,-0.102
+Telangana,Ts(A.S.Rao Nagar),dec,0.08,Low Attach,12,0.334
+Telangana,Ts(Malakpet),dec,0.14,Low Attach,12,0.254
+Gujarat,Ahmedabad(Vishala) Br,dec,0.09,Low Attach,12,0.171
+Telangana,Ts(Chintalkunta),dec,0.14,Low Attach,12,0.107
+Telangana,Ap(Rajahmundry-Jln Road),dec,0.14,Low Attach,12,0.096
+Telangana,Ts(Punjagutta),dec,0.2,Medium Attach,12,0.203
+Telangana,Ap(Vijayawada),dec,0.0,Low Attach,12,0.402
+Delhi_Ncr,Haryana(Palam Vihar Rd),dec,0.07,Low Attach,12,0.261
+Telangana,Ap(Kakinada),dec,0.2,Medium Attach,12,0.16
+Telangana,Ts(Wrg-Pochamma Maidan),dec,0.14,Low Attach,12,0.063
+Mumbai,Mahim Br,dec,0.0,Low Attach,12,0.504
+Delhi_Ncr,DELHI(ROHINI Sector-16),dec,0.0,Low Attach,12,0.406
+Mumbai,Infiniti Br,dec,0.0,Low Attach,12,0.206
+Pune,Pune(Tilak Rd)Br,dec,0.0,Low Attach,12,0.437
+Telangana,Ts(Madinaguda),dec,0.0,Low Attach,12,0.259
+Gujarat,Ahmedabad(Rakhial) Br,dec,0.0,Low Attach,12,0.332
+Telangana,Ts(Nagaram),dec,0.0,Low Attach,12,0.251
+Telangana,Ts(Hayathnagar),dec,0.0,Low Attach,12,0.129
+Thane,Ulhasnagar Br,dec,0.0,Low Attach,12,0.087
+Gujarat,Ahmedabad(R3Mall) Br,dec,0.0,Low Attach,12,0.139
+Mumbai,Boisar Br,dec,0.0,Low Attach,12,0.06
+Telangana,Ap(Vizag),dec,0.0,Low Attach,12,-0.017
+Telangana,Ap(Ntr Circle),dec,0.0,Low Attach,12,0.0
+Gujarat,Vadodara(Kareli Baug),dec,0.2,Medium Attach,12,0.164
+Gujarat,Vadodara(Alkapuri) Br,dec,0.18,Low Attach,12,0.108
+Gujarat,Vadodara(Manjalpur) Br,dec,0.25,Medium Attach,12,0.238
+Thane,Kharghar Br,dec,0.0,Low Attach,12,0.0
+Telangana,Ap(Tirupathi-Leela Mahal Circle),dec,0.0,Low Attach,12,0.0
+Telangana,Ap(Rajamundry),dec,0.0,Low Attach,12,0.0
+Gujarat,Vadodara(Kothi Road),dec,0.0,Low Attach,12,0.0
